@@ -1,11 +1,11 @@
 # Text_To_Speech_Python
 Text to Speech GUI using various libraries of Python 3.0 <br>
-Please read this carefully before you proceed. Once you satisfy all the prerequisites, then run the Welcome.py file.
+Please read this carefully before you proceed. Once you satisfy all the prerequisites, then run the **Welcome.py** file.
 
 
 # Prerequisites:
 
-1.	PySimpleGUI module (using pip install)
+1.	**PySimpleGUI module** (using pip install)
 
     This module will be used to design the GUI of the application.
     
@@ -13,7 +13,7 @@ Please read this carefully before you proceed. Once you satisfy all the prerequi
     
     https://pysimplegui.readthedocs.io/en/latest/
     
-2.	Pyttsx3 module (using pip install)
+2.	**Pyttsx3 module** (using pip install)
 
     This module is used for Text-To-Speech (TTS) conversion. This is an offline convertor module that uses three TTS engines:
     
@@ -27,11 +27,11 @@ Please read this carefully before you proceed. Once you satisfy all the prerequi
     
     https://pypi.org/project/pyttsx3/
     
-3.	Google_trans_new module (using pip install)
+3.	**Google_trans_new module** (using pip install)
     
     The command to install this module:
         
-    pip install google_trans_new
+    **pip install google_trans_new**
     
     This is a python API for google translator, since this application gives you an option to translate a text in one language to speech in another language, we use this API for     this purpose.
     
@@ -51,9 +51,9 @@ Please read this carefully before you proceed. Once you satisfy all the prerequi
     
     3.	If you have installed the Hindi TTS then you will see two following sub directories:
         
-        MSTTS_V110_hiIN_HemantM (Male voice)
+        **MSTTS_V110_hiIN_HemantM (Male voice)**
         
-        MSTTS_V110_hiIN_KalpanaM (Female voice)
+       **MSTTS_V110_hiIN_KalpanaM (Female voice)**
     
     4.	Export these two directories by right-clicking and then select export.
     
