@@ -53,7 +53,7 @@ Please read this carefully before you proceed. Once you satisfy all the prerequi
         
         **MSTTS_V110_hiIN_HemantM (Male voice)**
         
-       **MSTTS_V110_hiIN_KalpanaM (Female voice)**
+        **MSTTS_V110_hiIN_KalpanaM (Female voice)**
     
     4.	Export these two directories by right-clicking and then select export.
     
