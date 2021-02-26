@@ -66,7 +66,9 @@ Please read this carefully before you proceed. Once you satisfy all the prerequi
     8.	Run these two .reg files using windows registry editor and click ok to make changes.
     
     9.	Now you are ready to go with the Hindi TTS.
-    
-While uploading files to convert, you can only upload .txt files now. I will add support for other extentions too.
 
-I am working on getting the prerequisites to install on their own if they are not installed in the system already so that you will not have to worry about getting the settings right.
+I am working on the part where this application can communicate between two different systems so that if a server tries to say something, the client can hear that text in their desired language. This is very useful to reduce the communication barrier between a host and various client belonging to different language group.
+
+I will also work on adding support for more file extentions like .doc,.pdf etc. since these extensions are causing an increase in time complexity.
+
+**To check what languages are installed in the system that is recognised by pyttsx3 module, run the CheckLang.py file.**
