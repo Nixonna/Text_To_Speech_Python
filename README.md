@@ -67,4 +67,6 @@ Please read this carefully before you proceed. Once you satisfy all the prerequi
     
     9.	Now you are ready to go with the Hindi TTS.
     
+While uploading files to convert, you can only upload .txt files now. I will add support for other extentions too.
+
 I am working on getting the prerequisites to install on their own if they are not installed in the system already so that you will not have to worry about getting the settings right.
