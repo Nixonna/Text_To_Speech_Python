@@ -102,6 +102,8 @@ if __name__ !="__main__":
                                             self.__engine.setProperty("rate",int(60+self.__values2["rateS"]))
                                             self.__engine.save_to_file(self.__s,self.__Foname+"\\"+self.__Fname+".mp3")
                                             self.__engine.runAndWait()
+                                            
+                                            # show the saved file in windows explorer
                                             webbrowser.open_new(self.__Foname)
                                         
                                         else:
@@ -109,6 +111,8 @@ if __name__ !="__main__":
                                             self.__engine.setProperty("rate",int(60+self.__values2["rateS"]))
                                             self.__engine.save_to_file(self.__translated,self.__Foname+"\\"+self.__Fname+".mp3")
                                             self.__engine.runAndWait()
+                                            
+                                            # show the saved file in windows explorer
                                             webbrowser.open_new(self.__Foname)
                                     break
                         else:
